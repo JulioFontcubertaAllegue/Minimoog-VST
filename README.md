@@ -2,7 +2,7 @@
 VST version of the original Minimoog synthesizer
 
 
-There are three different files here, here´s a brief explanation of each one:
+There are three different files posted, here´s a brief explanation of each one:
 
 
 MINIMOOG.csd contains the original Cabbage file with the full code
